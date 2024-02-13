@@ -14,16 +14,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center" style='font-family: Nunito Sans;'>
+<!-- <p align="center" style='font-family: Nunito Sans;'>
     <p align='center' style='font-weight: 400; font-size: 20;'>👋 Hi! I'm Isaac Song</p>
-</p>
+</p> -->
 
-<p align="center">
+### 👋 Hi! I'm Isaac Song
+
+<p align="left">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito+Sans&pause=1000&color=000000&background=FFFFFF00&center=true&random=false&width=435&lines=Full+stack+web+developer;Learning+new+things+every+day!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito+Sans&pause=1000&color=000000&background=FFFFFF00&random=false&width=435&lines=Full+stack+web+developer;Learning+new+things+every+day!" alt="Typing SVG" /></a>
 </p>
 
 ---
+🔎 Currently looking for full-time positions
+
 
 
 <!-- [![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacsong1)](https://github.com/anuraghazra/github-readme-stats) -->
