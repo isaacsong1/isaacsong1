@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 ---
 🔎 Currently looking for full-time positions
 
+📈 Improving myself everyday
+
+
+
 
 
 <!-- [![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacsong1)](https://github.com/anuraghazra/github-readme-stats) -->
