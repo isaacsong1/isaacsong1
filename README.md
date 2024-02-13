@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center" style='font-family: Nunito Sans;'>
-    <p align='center' style='font-weight: 400; font-size: 20px; '>👋 Hi! I'm Isaac Song</p>
+    <p align='center' style='font-weight: 400; font-size: 20;'>👋 Hi! I'm Isaac Song</p>
 </p>
 
 <p align="center">
