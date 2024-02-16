@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ---
 🔎 Currently looking for full-time positions
 
-📈 Improving myself everyday
+📈 Improving my skills anywhere I can
 
 
 
