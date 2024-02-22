@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 📧 Feel free to reach out to isaacsongs10@gmail.com for anything! 
 
-###
-
+### Skills 
+[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,c,cpp,discord,figma,flask,git,github,materialui,matlab,npm,postgres,r,react,redux,sqlite,threejs,ubuntu,visualstudio,vscode,blender&perline=12&theme=dark)](https://skillicons.dev)
 <!-- [![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacsong1)](https://github.com/anuraghazra/github-readme-stats) -->
+
+### Latest Technical Blogs
