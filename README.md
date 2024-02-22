@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 🗻 Love to rock climb in my free time (V9)
 
-📧 Feel free to reach out to isaacsongs10@gmail.com for questions! 
+📧 Feel free to reach out to isaacsongs10@gmail.com for anything! 
 
 ###
 
