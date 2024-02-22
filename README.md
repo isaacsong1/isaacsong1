@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 🗻 Love to rock climb in my free time (V9)
 
-📧 Feel free to reach out to isaacsongs10@gmail.com for anything! 
+📧 Feel free to reach out to isaacsongs10@gmail.com for questions! 
 
-
+###
 
 <!-- [![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacsong1)](https://github.com/anuraghazra/github-readme-stats) -->
