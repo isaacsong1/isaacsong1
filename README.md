@@ -40,3 +40,9 @@ Here are some ideas to get you started:
 <!-- [![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacsong1)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Latest Technical Blogs
+- [**React Redux: User Management**](https://isaacsong.hashnode.dev/react-redux-user-management)                 
+  *A beginner friendy tutorial on managing user state in a React application using React-Redux*
+- [**Marshmallow: From S'mores to Flask in Python**](https://isaacsong.hashnode.dev/recursion-functions-in-python)                 
+  *A guide on how to use the Marshmallow library to set up a flask backend in Python*
+- [**Recursion Functions in Python**](https://isaacsong.hashnode.dev/recursion-functions-in-python)              
+  *An introduction to recursion within Python and its importance in Minesweeper*
