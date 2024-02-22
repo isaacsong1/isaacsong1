@@ -5,7 +5,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito+Sans&pause=1000&vCenter=true&color=000000&background=FFFFFF00&random=false&width=435&lines=Full+stack+web+developer;Learning+new+things+every+day!" alt="Typing SVG" /></a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
 ---
 ### About me
 💻 Full Stack Developer and Flatiron School Graduate (Dec 2023)
@@ -18,7 +17,6 @@
 
 ### Skills 
 [![My Skills](https://skillicons.dev/icons?i=js,python,html,css,c,cpp,discord,figma,flask,git,github,materialui,matlab,npm,postgres,r,react,redux,sqlite,threejs,ubuntu,visualstudio,vscode,blender&perline=12&theme=dark)](https://skillicons.dev)
-<!-- [![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacsong1)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Latest Technical Blogs
 - [**React Redux: User Management**](https://isaacsong.hashnode.dev/react-redux-user-management)                 
