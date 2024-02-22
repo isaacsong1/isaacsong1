@@ -26,9 +26,12 @@ Here are some ideas to get you started:
 </p>
 
 ---
-🔎 Currently looking for full-time positions
+### About me
+💻 Full Stack Developer and Flatiron School Graduate (Dec 2023)
 
-📈 Improving my skills anywhere I can
+📈 Continuously growing my coding skills and developing innovative features
+
+🗻 Love to rock climb in my free time (V9)
 
 
 
