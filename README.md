@@ -10,7 +10,7 @@
 
 📈 Continuously growing my coding skills and developing innovative features
 
-🗻 Love to rock climb in my free time (V9)
+🗻 Love to rock climb in my free time
 
 📧 Feel free to reach out to isaacsongs10@gmail.com for anything! 
 
