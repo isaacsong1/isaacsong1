@@ -8,6 +8,8 @@
 ### About me
 💻 Full Stack Developer and Flatiron School Graduate (Dec 2023)
 
+📱 Currently learning how to develop android applications using Kotlin
+
 📈 Continuously growing my coding skills and developing innovative features
 
 🗻 Love to rock climb in my free time
