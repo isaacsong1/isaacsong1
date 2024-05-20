@@ -2,11 +2,11 @@
 
 <p align="left">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito+Sans&pause=1000&vCenter=true&color=000000&background=FFFFFF00&random=false&width=400&lines=Full+stack+web+developer;Learning+new+things+every+day!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito+Sans&pause=1000&vCenter=true&color=000000&background=FFFFFF00&random=false&width=400&lines=Software+Engineer;Learning+new+things+every+day!" alt="Typing SVG" /></a>
 </p>
 
 ### About me
-💻 Full Stack Developer and Flatiron School Graduate (Dec 2023)
+💻 Software Engineer and Flatiron School Graduate (Dec 2023)
 
 📱 Currently practicing Typescript
 
