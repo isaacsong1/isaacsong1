@@ -8,8 +8,6 @@
 ### About me
 💻 Software Engineer and Flatiron School Graduate (Dec 2023)
 
-📱 Currently practicing Typescript
-
 📈 Continuously growing my coding skills and developing innovative features
 
 🗻 Love to rock climb in my free time
